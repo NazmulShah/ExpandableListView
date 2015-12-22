@@ -141,6 +141,7 @@ public class MainActivity extends Activity {
         listDataChild.put(listDataHeader.get(2), comingSoon);
     }
 
+    //####### Indicator###########
     private void setGroupIndicatorToRight() {
         /* Get the screen width */
         DisplayMetrics dm = new DisplayMetrics();
