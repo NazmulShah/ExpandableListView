@@ -4,14 +4,14 @@
     android:layout_height="wrap_content"
     android:orientation="vertical"
     android:padding="8dp"
-    android:background="#000000">
+    android:background="#f9f3f3">
 
     <TextView
         android:id="@+id/lblListHeader"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textSize="17dp"
-        android:textColor="#f9f93d"
+        android:textColor="#f9593d"
         android:paddingLeft="?android:attr/expandableListPreferredChildIndicatorLeft"/>
 
 
